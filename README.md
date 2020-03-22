@@ -18,7 +18,7 @@ repositories {
 }
 
 dependencies {
-  implementation 'live.stream:theqkit-android:0.1.2'
+  implementation 'live.stream:theqkit-android:0.2.5'
 }
 ```
 
